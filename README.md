@@ -1,4 +1,4 @@
-# Algoritmo genético: otimizando o problema do caixeiro viajante
+# Algoritmo genético: otimizando o problema do caixeiro-viajante
 
 O algoritmo genético é uma aplicação da abordagem evolutiva (seleção natural das espécies) para a aprendizagem de máquina indutiva. Ou seja, ele aplica princípios evolutivos, como seleção, recombinação e mutação, em uma população de soluções candidatas. Então, basicamente, o algoritmo vai tentar encontrar várias soluções e usar a informação obtida (função objetivo) para conseguir soluções cada vez melhores.
 
